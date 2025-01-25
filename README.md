@@ -125,25 +125,6 @@ Acknowledgements
 
     Inspired by: Democratic election analysis methodologies
 
-To Customize:
-
-    Replace chandanneralgi in clone URL with your GitHub username
-
-    Add actual preview images (preview.png, seats_chart.png, etc.)
-
-    Add your dataset to data/ directory
-
-    Create LICENSE file for MIT terms
-
-Copy
 
 
-This version:
-- Combines technical and analytical aspects
-- Maintains clear navigation structure
-- Includes both script and notebook usage
-- Shows project hierarchy
-- Provides visual examples
-- Keeps contributor-friendly formatting
 
-Let me know if you need adjustments to specific sections!
